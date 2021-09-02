@@ -1,14 +1,14 @@
 [
     {
-        "firstname":"SRJC",
+        "title":"SRJC",
         "link":"https://www.santarosa.edu"
     },
     {
-        "firstname":"Apple",
+        "title":"Apple",
         "link":"https://www.apple.com"
     },
     {
-        "firstname":"Google",
+        "title":"Google",
         "link":"https://www.google.com"
     }
 ]
